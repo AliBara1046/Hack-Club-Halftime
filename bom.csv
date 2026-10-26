@@ -1,5 +1,5 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"D1, D2, D3, D4",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,4,SK6812MINI-E,
+﻿Item,Quantity,Price,Link
+LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,4,SK6812MINI-E,
 ROT1,RotaryEncoder_Alps_EC11E_Vertical_H20mm,1,RotaryEncoder (Sound),
 ROT2,RotaryEncoder_Alps_EC11E_Vertical_H20mm,1,RotaryEncoder (Pitch),
-U1,XIAO ESP32-S3,1,XIAO-ESP32-S3,
+U1,XIAO ESP32-S3,1,
